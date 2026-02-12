@@ -6,5 +6,8 @@
   "unity": "6000.2",
   "author": {
     "name": "Mykhailo Kyslenko"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.7.3"
   }
 }

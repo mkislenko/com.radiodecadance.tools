@@ -2,8 +2,8 @@
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
-using System.Text;
 using System.Threading;
+using System.Text;
 using UnityEditor;
 using UnityEditor.AddressableAssets.Build;
 using UnityEditor.AddressableAssets.Settings;
@@ -17,7 +17,7 @@ using Process = System.Diagnostics.Process;
 // If using an older Unity version, the concept still works for custom BuildPlayerOptions, 
 // but the 'BuildProfile' asset type may need adjustment or replacement with your custom ScriptableObject.
 
-namespace RadioDecadance.Serialization.Tools.Editor
+namespace RadioDecadance.Tools.Editor
 {
     public class BuilderWindow : EditorWindow
     {

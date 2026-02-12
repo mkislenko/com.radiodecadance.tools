@@ -3,13 +3,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using RadioDecadance.Tools;
 using UnityEditor;
 using UnityEditor.UIElements;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace RadioDecadance.Serialization.Tools.Editor
+namespace RadioDecadance.Tools.Editor
 {
     [CustomPropertyDrawer(typeof(SerializeReferenceTypePickerAttribute))]
     public class SerializeReferenceTypePickerDrawer : PropertyDrawer

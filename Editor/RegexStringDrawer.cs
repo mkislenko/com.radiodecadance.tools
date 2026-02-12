@@ -1,9 +1,8 @@
 ﻿using System.Text.RegularExpressions;
-using RadioDecadance.Tools;
 using UnityEditor;
 using UnityEngine;
 
-namespace RadioDecadance.Serialization.Tools.Editor
+namespace RadioDecadance.Tools.Editor
 {
     [CustomPropertyDrawer(typeof(RegexStringAttribute))]
     public class RegexStringDrawer : PropertyDrawer
