@@ -1,0 +1,10 @@
+{
+  "name": "com.radiodecadance.tools",
+  "version": "1.0.0",
+  "displayName": "Radio Decadance Tools",
+  "description": "Tools for custom property drawers and build.",
+  "unity": "6000.2",
+  "author": {
+    "name": "Mykhailo Kyslenko"
+  }
+}
