@@ -2,8 +2,8 @@
     "name": "RadioDecadance.Tools.Editor",
     "rootNamespace": "RadioDecadance",
     "references": [
-        "GUID:a3cc603b37249cf45a004d38b17705be",
-        "GUID:69448af7b92c7f342b298e06a37122aa"
+        "RadioDecadance.Tools",
+        "Unity.Addressables.Editor"
     ],
     "includePlatforms": [
         "Editor"
